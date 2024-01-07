@@ -1,5 +1,2 @@
-setuptools
-scikit-learn
-matplotlib
 numpy
-google.colab
+maplotlib.pyplot
