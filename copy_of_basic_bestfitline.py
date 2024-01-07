@@ -78,7 +78,6 @@ for i in range(300):
 print("************************************************")
 print(" ")
 print("Final Model Predicted Line Stats:")
-print("Slope:" , m , " ;Y intercept" , b)
-
+print("Slope:" , m , " ;Y intercept" ,b)
 plt.plot(x,z,color='green')
 plt.scatter(x,y)
