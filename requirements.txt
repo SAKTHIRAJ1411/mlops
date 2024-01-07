@@ -2,4 +2,4 @@ setuptools
 scikit-learn
 matplotlib
 numpy
-google
+google.colab
